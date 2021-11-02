@@ -66,7 +66,7 @@ def handle(msg):
     else:
         bot.sendMessage(chat_id, '功能正在开发，请等待。awa')
 
-TOKEN = '2078185217:AAG4lJrbkNI3FZlISGYF1t_c6w0EHJFssP8'
+TOKEN = 'You Token'
 
 bot = telepot.Bot(TOKEN)
 MessageLoop(bot, handle).run_as_thread()
