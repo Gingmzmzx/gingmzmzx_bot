@@ -2,6 +2,7 @@
 gingmzmzx的私人bot的开源库
 
 # bot的安装
+0，在botfather申请一个bot（这里省略）  
 1，pip3 install flask  
 2，pip3 install telepot  
 3，pip3 install requests  
